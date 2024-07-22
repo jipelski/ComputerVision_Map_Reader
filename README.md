@@ -20,8 +20,8 @@ The program processes an image to find the coordinates of the tip of a red trian
 
 ## Usage
 To run the program, use the following command:
-  python3 mapreader.py <filename>
-- '<filename>': The image file to be processed.
+  python3 mapreader.py `<filename>`
+- `<filename>`: The image file to be processed.
 
 ## Assumptions and Restrictions
 The map should be placed on a dark blue background.
